@@ -40,3 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 lucentix-service-account.json
+lucentix-service-account.json
